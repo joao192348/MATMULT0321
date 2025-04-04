@@ -1,6 +1,6 @@
 # MATMULT0321
 
-Escreva um programa em java que recebve como parametros da linha de comando as dimensoes de duas matrizes a e b. em seguida le do teclado o conteudo das duas matrizes de valores reais e, por fim, exibe a*b.
+Escreva um programa em java que recebve como parametros da linha de comando as dimensoes de duas matrizes 'a' e 'b'. em seguida le do teclado o conteudo das duas matrizes de valores reais e, por fim, exibe 'a*b'.
 
 lembre-se de usar as seguintes boas praticas de programacao:
 
